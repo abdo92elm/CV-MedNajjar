@@ -6,7 +6,7 @@ html {
 }
 
 body {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Poppins', sans-serif;
   line-height: 1.5;
   background: #F2F2F2;
   color: #323232;
@@ -67,7 +67,7 @@ img.avatar {
 }
 
 .my-name {
-  font-size: 48px;
+  font-size: 40px;
   line-height: 1;
 }
 
