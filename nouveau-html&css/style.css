@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.5;
+    background: #F2F2F2;
+    color: #323232;
+}
+h3{
+    color: skyblue;
+    font-style: normal;
+    font-weight: 400;
+}
+h5{
+    font-style: normal;
+    font-weight: 400;
+}
+.icon{
+    width: 16px;
+}
+.page{
+    max-width: 960px;
+    height: auto;
+    margin: 40px auto;
+    background: white;
+    padding: 20px;
+}
+.myimg{
+    width: 140px;
+    height: auto;
+    float: left;
+}
+.myname{
+    margin-left: 210px;
+}
+.option{
+    margin-left: 210px;
+
+}
+.info{
+    display: inline;
+    margin-right: 60px;
+}
+.plusinfo{
+    margin-left: 210px;
+    margin-top: 20px;
+}
+.presentation{
+    border-bottom: 1px solid darkgrey;
+    padding: 24px 0;
+}
+.ste{
+    display: inline;
+    
+}
+
+.date{
+    float: right;
+}
+.experience{
+    margin-top: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: blue;
+}
+.plusin{
+    margin-left: 210px;
+    margin-top: 20px;
+    border-bottom: 1px solid darkgrey;
+}
+.para{
+    margin-bottom: 20px;
+}
+.exp{
+    margin-top: 20px;
+}
+.plus{
+    margin-left: 210px;
+    margin-top: 20px;
+}
+.expo{
+    margin-top: 20px;
+    border-bottom: 1px solid darkgrey;
+}
+.skills{
+    display: block;
+    float: left;
+    margin-right: 130px;
+    margin-bottom: 20px;
+}
+.ski{
+    margin-left: 225px;
+}
+.opt{
+    margin-left: 225px;
+    margin-top: 20px;
+}
+.x{
+    margin-left: 210px;
+    margin-top: 20px; 
+}
+.sk{
+    margin-top: 20px;
+    border-bottom: 1px solid darkgrey;
+}
+.icons{
+    width: 40px;
+}
+.infos{
+    display: inline;
+    margin-right: 140px;
+}
